@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+*.part
+*.part.json
+.pytest_cache/
